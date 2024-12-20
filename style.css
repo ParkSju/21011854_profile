@@ -1,0 +1,79 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.contanier2
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.boxleft
+{
+    border: 1px;
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url(teacher.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+.boxright
+{
+    border: 1px;
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url(sju-log.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+.boxmiddle
+{
+    border: 1px;
+    width: 300px;
+    height: 200px;
+    background-color: antiquewhite;
+}
+
+.box2
+{
+    border: 1px;
+    border-style: dotted;
+    width: 900px;
+    height: 450px;
+    background-color: lightgoldenrodyellow;
+}
+
+.box3
+{
+    border: 1px;
+    border-style: dotted;
+    background-color: lightblue;
+    width: 900px;
+    height: 250px;
+}
+.box4
+{
+    border: 1px;
+    border-style: dotted;
+    width: 900px;
+    height: 350px;
+    background-color: lightgray;
+}
+#mainchar
+{
+    font-size: xx-large;
+}
+#marine
+{
+    background-color: aquamarine;
+}
+#yellow
+{
+    background-color: lightgoldenrodyellow;
+}
